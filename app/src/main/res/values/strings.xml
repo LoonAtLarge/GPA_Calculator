@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GPA_Fashakin_Calculator</string>
+    <string name="error">Please enter your grade</string>
+</resources>
